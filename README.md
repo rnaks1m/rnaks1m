@@ -4,7 +4,10 @@
 
 I'm passionate about creating clean and efficient code, as well as finding optimal solutions for complex algorithmic problems.
 - **Current Focus:** Designing high-load systems and backends in C++.
-- **Education:** MAI student (2021-2027)
+- 🎓 **Образование:** - **МАИ (Национальный исследовательский университет)**, Москва
+  - *Институт №7 «Робототехнические и интеллектуальные системы»*
+  - Кафедра 703 «Системное проектирование авиакомплексов»
+  - Специалитет (2021 — 2027)
 - **Courses and professional development:** Graduate of Yandex Practicum (C++ Developer).
 - **Experience:** 1.5 years of project work (developing game servers, spreadsheets, and transportation guides).
 
@@ -18,12 +21,6 @@ I'm passionate about creating clean and efficient code, as well as finding optim
 * **DBMS:** PostgreSQL.
 * **Algorithms:** Trees, graphs, linear lists, expression parsing, multithreading.
 
----
-
-### 📈 Statistics and Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnaks1m&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnaks1m&layout=compact&theme=radical)
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnaks1m&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnaks1m&layout=compact&theme=radical) |
 ---
 
 ### 📫 How to contact me:
