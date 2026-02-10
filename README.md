@@ -21,8 +21,8 @@ I'm passionate about creating clean and efficient code, as well as finding optim
 ---
 
 ### 📈 Statistics and Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maks1m-2608&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maks1m-2608&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnaks1m&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnaks1m&layout=compact&theme=radical)
 
 ---
 
