@@ -5,9 +5,10 @@
 I'm passionate about creating clean and efficient code, as well as finding optimal solutions for complex algorithmic problems.
 - **Current Focus:** Designing high-load systems and backends in C++.
 - 🎓 **Образование:** - **МАИ (Национальный исследовательский университет)**, Москва
-  - *Институт №7 «Робототехнические и интеллектуальные системы»*
-  - Кафедра 703 «Системное проектирование авиакомплексов»
-  - Специалитет (2021 — 2027)
+- 🎓 **Education:** - **MAI (National Research University)**, Moscow
+- *Institute No. 7 "Robotic and Intelligent Systems"*
+- Department 703 "System Design of Aircraft Complexes"
+- Specialist's degree (2021-2027)
 - **Courses and professional development:** Graduate of Yandex Practicum (C++ Developer).
 - **Experience:** 1.5 years of project work (developing game servers, spreadsheets, and transportation guides).
 
