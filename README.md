@@ -1,32 +1,33 @@
-# Привет!
+# Hello!
 
-### Разработчик C++
+### C++ Developer
 
-Я увлечен созданием чистого и эффективного кода, а также поиском оптимальных решений для сложных алгоритмических задач.
-- 🚀 **Текущий фокус:** Проектирование высоконагруженных систем и бэкенда на C++.
-- 🎓 **Образование:** Студент МАИ (выпуск 2027) + выпускник Яндекс Практикума (C++ Developer).
-- 🛠️ **Опыт:** 1.5 года проектной деятельности (разработка игровых серверов, электронных таблиц и транспортных справочников).
-
----
-
-### 🛠 Технологический стек
-
-* **Языки:** C++ (стандарты 17/20), Python (базовый), SQL.
-* **Библиотеки и фреймворки:** Boost (Asio, Beast, JSON, Serialization), STL, ANTLR4.
-* **Инструменты:** CMake, Docker, Linux, Git, Conan.
-* **СУБД:** PostgreSQL.
-* **Алгоритмы:** Графы (Флойд-Уоршелл), парсинг выражений, многопоточность.
+I'm passionate about creating clean and efficient code, as well as finding optimal solutions for complex algorithmic problems.
+- **Current Focus:** Designing high-load systems and backends in C++.
+- **Education:** MAI student (2021-2027)
+- **Courses and professional development:** Graduate of Yandex Practicum (C++ Developer).
+- **Experience:** 1.5 years of project work (developing game servers, spreadsheets, and transportation guides).
 
 ---
 
-### 📈 Статистика и достижения
+### 🛠 Tech Stack
+
+* **Languages:** C++ (standards 17/20), Python (basic), SQL.
+* **Libraries and frameworks:** Boost (Asio, Beast, JSON, Serialization), STL, ANTLR4.
+* **Tools:** CMake, Docker, Linux, Git, Conan.
+* **DBMS:** PostgreSQL.
+* **Algorithms:** Trees, graphs, linear lists, expression parsing, multithreading.
+
+---
+
+### 📈 Statistics and Achievements
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maks1m-2608&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maks1m-2608&layout=compact&theme=radical)
 
 ---
 
-### 📫 Как со мной связаться:
+### 📫 How to contact me:
 
-* **Telegram:** [@rnaks1m](https://t.me/rnaks1m) (предпочтительный способ связи)
-* **Email:** [maks1m_2608@mail.ru](mailto:maks1m_2608@mail.ru)
-* **Статус:** Открыт для предложений по стажировке или полной занятости (Москва / Удаленно).
+* **Email:** [maks1m_2608@mail.ru](mailto:maks1m_2608@mail.ru) (preferred method)
+* ​​**Telegram:** [@rnaks1m](https://t.me/rnaks1m)
+* **Status:** Open to internship or full-time employment offers (Moscow / Remote).
