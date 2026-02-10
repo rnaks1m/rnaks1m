@@ -4,7 +4,6 @@
 
 I'm passionate about creating clean and efficient code, as well as finding optimal solutions for complex algorithmic problems.
 - **Current Focus:** Designing high-load systems and backends in C++.
-- 🎓 **Образование:** - **МАИ (Национальный исследовательский университет)**, Москва
 - 🎓 **Education:** - **MAI (National Research University)**, Moscow
   - *Institute №7 "Robotic and Intelligent Systems"*
   - Department 703 "System Design of Aircraft Complexes"
